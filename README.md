@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushmagoulikar
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning .net,synamics 365
+- 🌱 I’m currently learning .net,dynamics 365
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
